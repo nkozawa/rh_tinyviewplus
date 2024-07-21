@@ -1,0 +1,13 @@
+{
+    "name": "Just my test",
+    "author": "KozakFPV",
+    "author_uri": "https://github.com/nkozawa/",
+    "description": "Testing TinyViewPlus kicker",
+    "info_uri": "https://github.com/nkozawa/OpenTX2GPX",
+    "license": "RotorHazard",
+    "license_uri": "https://github.com/nkozawa/OpenTX2GPX?tab=MIT-1-ov-file#readme",
+    "version": "0.0",
+    "required_rhapi_version": "1.0",
+    "update_uri": null,
+    "text_domain": null
+}
