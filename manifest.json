@@ -1,10 +1,10 @@
 {
-    "name": "Just my test",
+    "name": "Add TinyViewPlus Lap",
     "author": "KozakFPV",
     "author_uri": "https://github.com/nkozawa/",
-    "description": "Testing TinyViewPlus kicker",
+    "description": "This plugin adds TinyViewPlus LAP from RotorHazard when Tinyviewplus fails to read AR markers!",
     "info_uri": "https://github.com/nkozawa/OpenTX2GPX",
-    "license": "RotorHazard",
+    "license": "MIT",
     "license_uri": "https://github.com/nkozawa/OpenTX2GPX?tab=MIT-1-ov-file#readme",
     "version": "0.0",
     "required_rhapi_version": "1.0",
