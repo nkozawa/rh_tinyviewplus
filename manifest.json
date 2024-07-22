@@ -3,10 +3,10 @@
     "author": "KozakFPV",
     "author_uri": "https://github.com/nkozawa/",
     "description": "This plugin adds TinyViewPlus LAP from RotorHazard when Tinyviewplus fails to read AR markers!",
-    "info_uri": "https://github.com/nkozawa/OpenTX2GPX",
+    "info_uri": "https://github.com/nkozawa/rh_tinyviewplus",
     "license": "MIT",
-    "license_uri": "https://github.com/nkozawa/OpenTX2GPX?tab=MIT-1-ov-file#readme",
-    "version": "0.0",
+    "license_uri": "https://github.com/nkozawa/rh_tinyviewplus/tree/main?tab=MIT-1-ov-file#readme",
+    "version": "1.0",
     "required_rhapi_version": "1.0",
     "update_uri": null,
     "text_domain": null
