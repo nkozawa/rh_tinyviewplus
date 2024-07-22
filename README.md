@@ -7,7 +7,7 @@ This plugin adds TinyViewPlus LAP from RotorHazard when Tinyviewplus fails to re
 
 ## Install
 - Make directory "rh_tinyviewplus" under "plugins" directory. Typical sample command is like this `mkdir RotorHazard/src/server/plugins/rh_tinyviewplus`.
-- Copy files __init__.py and manufest to under the directory.
+- Copy source files `__init__.py` and `manifest.json` to under the directory.
 - Install python-osc package to python virtual environment. Typical commands example are:
 ```
 cd
