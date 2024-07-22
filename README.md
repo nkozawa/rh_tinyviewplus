@@ -17,7 +17,7 @@ pip3 install python-osc
 > If you are not sure which virtual environment is used to your RotorHazard, please try `systemctl cat rotorhazard`.
 
 ## TinyViewPlus IP Address
-You need to tell IP Address of TinyViewPlus to rh_tinyviewplus plugin. There two methods.
+You need to tell IP Address of TinyViewPlus to rh_tinyviewplus plugin. There are two methods.
 1. Modify `__init__.py` file. Just edit `ipAddress = "127.0.0.1"`.
 2. Create "tvpIPAddress.ini" file to under user home directy. It might be '/home/pi'. 'tvpIPAddress.ini' just need to contain IP Address, nothing else.
 
