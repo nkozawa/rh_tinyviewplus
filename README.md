@@ -25,3 +25,5 @@ After modify IP Address, you need to restart RotorHazard.
 
 ## Test
 Run Rotorhazard and TinyViewPlus. Both must be in race mode. If add a lap on RotorHazrd (either manually or VTX sensing), TinyViewPlus would also recognizes the lap.
+
+https://youtube.com/shorts/be6LFXwtvZM?si=-PyWN413HeDONm9I
